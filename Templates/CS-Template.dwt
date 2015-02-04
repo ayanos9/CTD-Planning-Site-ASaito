@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:22px;
+	top:13px;
+	width:122px;
+	height:71px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:166px;
+	top:12px;
+	width:790px;
+	height:49px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:166px;
+	top:68px;
+	width:790px;
+	height:35px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:166px;
+	top:109px;
+	width:789px;
+	height:523px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:15px;
+	top:109px;
+	width:144px;
+	height:32px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	left:15px;
+	top:151px;
+	width:144px;
+	height:129px;
+	z-index:6;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="apDiv1">Logo</div>
+<div id="apDiv2">AIS Community Service Club</div>
+<div id="apDiv3">Menu Bar</div>
+<div id="apDiv4">Content Box</div>
+<div id="apDiv5">Subpage Title</div>
+<div id="apDiv6">Sign Up</div>
+</body>
+</html>
