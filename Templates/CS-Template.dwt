@@ -8,15 +8,15 @@
 <style type="text/css">
 #apDiv1 {
 	position:absolute;
-	left:22px;
-	top:13px;
-	width:122px;
-	height:71px;
+	left:100px;
+	top:9px;
+	width:97px;
+	height:90px;
 	z-index:1;
 }
 #apDiv2 {
 	position:absolute;
-	left:166px;
+	left:300px;
 	top:12px;
 	width:790px;
 	height:49px;
@@ -24,15 +24,15 @@
 }
 #apDiv3 {
 	position:absolute;
-	left:166px;
+	left:300px;
 	top:68px;
 	width:790px;
-	height:35px;
+	height:25px;
 	z-index:3;
 }
 #apDiv4 {
 	position:absolute;
-	left:166px;
+	left:300px;
 	top:109px;
 	width:789px;
 	height:523px;
@@ -42,7 +42,7 @@
 	position:absolute;
 	left:15px;
 	top:109px;
-	width:144px;
+	width:270px;
 	height:32px;
 	z-index:5;
 }
@@ -50,8 +50,8 @@
 	position:absolute;
 	left:15px;
 	top:151px;
-	width:144px;
-	height:129px;
+	width:270px;
+	height:450px;
 	z-index:6;
 }
 </style>
@@ -60,11 +60,11 @@
 </head>
 
 <body>
-<div id="apDiv1">Logo</div>
-<div id="apDiv2">AIS Community Service Club</div>
-<div id="apDiv3">Menu Bar</div>
-<div id="apDiv4">Content Box</div>
-<div id="apDiv5">Subpage Title</div>
-<div id="apDiv6">Sign Up</div>
+<div id="apDiv1"><img src="../images-DW/Logo.jpg" width="98" height="95" /></div>
+<div id="apDiv2"><img src="../htdocs/images/index-FW_r1_c8.jpg" width="790" height="49" /></div>
+<div id="apDiv3"><img src="../htdocs/images/index-FW_r3_c8.jpg" width="195" height="25" /><img src="../htdocs/images/index-FW_r3_c14.jpg" width="195" height="25" /><img src="../htdocs/images/index-FW_r3_c16.jpg" width="195" height="25" /><img src="../htdocs/images/index-FW_r3_c18.jpg" width="195" height="25" /></div>
+<div id="apDiv4"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable --></div>
+<div id="apDiv5"><!-- TemplateBeginEditable name="SubpageTitle" -->Subpage Title<!-- TemplateEndEditable --></div>
+<div id="apDiv6"><img src="../htdocs/Old/images/Storyboard1_r4_c2.jpg" width="145" height="60" /></div>
 </body>
 </html>
