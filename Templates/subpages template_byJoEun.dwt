@@ -23,6 +23,9 @@
 	width:809px;
 	height:72px;
 	z-index:2;
+	color: #00F;
+	font-size: 60px;
+	text-align: center;
 }
 #apDiv3 {
 	position:absolute;
@@ -55,6 +58,8 @@
 	width:143px;
 	height:39px;
 	z-index:6;
+	color: #000;
+	font-size: 25px;
 }
 #apDiv7 {
 	position:absolute;
@@ -63,6 +68,8 @@
 	width:141px;
 	height:38px;
 	z-index:7;
+	font-size: 26px;
+	color: #000;
 }
 #apDiv8 {
 	position:absolute;
@@ -71,14 +78,16 @@
 	width:141px;
 	height:36px;
 	z-index:8;
+	font-size: 26px;
 }
 #apDiv9 {
 	position:absolute;
 	left:81px;
 	top:613px;
-	width:141px;
+	width:157px;
 	height:34px;
 	z-index:9;
+	font-size: 20px;
 }
 </style>
 </head>
@@ -91,9 +100,9 @@
 </div>
 <div id="apDiv4"><iframe src="https://docs.google.com/forms/d/1ZHQsY95rOkZguDibrRYHssL6OdlGdLAkrDkk7qsQetw/viewform?embedded=true" width="805" height="151" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
 <div id="apDiv5"><!-- TemplateBeginEditable name="content" -->About <!-- TemplateEndEditable --></div>
-<div id="apDiv6">about</div>
-<div id="apDiv7">events</div>
-<div id="apDiv8">photos</div>
-<div id="apDiv9">service hour sheets</div>
+<div id="apDiv6">About</div>
+<div id="apDiv7">Events</div>
+<div id="apDiv8">Photos</div>
+<div id="apDiv9">Service hour sheets</div>
 </body>
 </html>
