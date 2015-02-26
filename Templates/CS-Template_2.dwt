@@ -8,48 +8,48 @@
 <style type="text/css">
 #apDiv1 {
 	position:absolute;
-	left:64px;
-	top:2px;
+	left:58px;
+	top:6px;
 	width:97px;
 	height:90px;
 	z-index:1;
 }
 #apDiv2 {
 	position:absolute;
-	left:199px;
-	top:5px;
+	left:190px;
+	top:11px;
 	width:790px;
 	height:49px;
 	z-index:2;
 }
 #apDiv3 {
 	position:absolute;
-	left:199px;
-	top:58px;
-	width:782px;
-	height:27px;
+	left:31px;
+	top:170px;
+	width:144px;
+	height:287px;
 	z-index:3;
 }
 #apDiv4 {
 	position:absolute;
-	left:199px;
-	top:87px;
+	left:187px;
+	top:68px;
 	width:789px;
-	height:523px;
+	height:450px;
 	z-index:4;
 }
 #apDiv5 {
 	position:absolute;
-	left:47px;
-	top:105px;
+	left:15px;
+	top:109px;
 	width:145px;
 	height:32px;
 	z-index:5;
 }
 #apDiv6 {
 	position:absolute;
-	left:47px;
-	top:142px;
+	left:31px;
+	top:106px;
 	width:145px;
 	height:60px;
 	z-index:6;
@@ -62,9 +62,8 @@
 <body>
 <div id="apDiv1"><img src="../images-DW/Logo.jpg" width="98" height="95" /></div>
 <div id="apDiv2"><img src="../htdocs/images/index-FW_r1_c8.jpg" width="790" height="49" /></div>
-<div id="apDiv3"><img src="../htdocs/images/index-FW_r3_c8.jpg" width="195" height="25" /><img src="../htdocs/images/index-FW_r3_c14.jpg" width="195" height="25" /><img src="../htdocs/images/index-FW_r3_c16.jpg" width="195" height="25" /><img src="../htdocs/images/index-FW_r3_c18.jpg" width="195" height="25" /></div>
+<div id="apDiv3"><img src="../images-DW/SP-About.jpg" width="144" height="72" /><img src="../images-DW/SP-UpcomingEvents.jpg" alt="" width="144" height="72" /><img src="../SP-Photo.jpg" alt="" width="144" height="72" /><img src="../SP-SHSheet.jpg" alt="" width="144" height="72" /></div>
 <div id="apDiv4"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable --></div>
-<div id="apDiv5"><!-- TemplateBeginEditable name="SubpageTitle" -->Subpage Title<!-- TemplateEndEditable --></div>
 <div id="apDiv6"><img src="../htdocs/Old/images/Storyboard1_r4_c2.jpg" width="145" height="60" /></div>
 </body>
 </html>
