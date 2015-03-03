@@ -10,75 +10,79 @@
 <style type="text/css">
 #apDiv1 {
 	position:absolute;
-	left:54px;
-	top:30px;
-	width:198px;
-	height:179px;
+	left:14px;
+	top:11px;
+	width:150px;
+	height:150px;
 	z-index:1;
 }
 #apDiv2 {
 	position:absolute;
-	left:336px;
-	top:29px;
-	width:809px;
-	height:72px;
+	left:175px;
+	top:11px;
+	width:805px;
+	height:50px;
 	z-index:2;
+	font-size: 36px;
 }
 #apDiv3 {
 	position:absolute;
-	left:38px;
-	top:277px;
+	left:17px;
+	top:167px;
 	width:240px;
 	height:454px;
 	z-index:3;
 }
 #apDiv4 {
 	position:absolute;
-	left:337px;
-	top:111px;
+	left:175px;
+	top:67px;
 	width:805px;
 	height:151px;
 	z-index:4;
 }
 #apDiv5 {
 	position:absolute;
-	left:300px;
-	top:278px;
-	width:911px;
+	left:175px;
+	top:228px;
+	width:805px;
 	height:463px;
 	z-index:5;
 }
 #apDiv6 {
 	position:absolute;
-	left:83px;
-	top:350px;
+	left:14;
+	top:228px;
 	width:143px;
 	height:39px;
 	z-index:6;
 }
 #apDiv7 {
 	position:absolute;
-	left:82px;
-	top:439px;
+	left:14;
+	top:289px;
 	width:141px;
 	height:38px;
 	z-index:7;
 }
 #apDiv8 {
 	position:absolute;
-	left:82px;
-	top:526px;
+	left:14;
+	top:351px;
 	width:141px;
 	height:36px;
 	z-index:8;
 }
 #apDiv9 {
 	position:absolute;
-	left:81px;
-	top:613px;
+	left:14;
+	top:415px;
 	width:141px;
 	height:34px;
 	z-index:9;
+}
+body {
+	background-color: #6CF;
 }
 </style>
 </head>
@@ -86,11 +90,8 @@
 <body>
 <div id="apDiv1">Logo</div>
 <div id="apDiv2">Community Service Club</div>
-<div id="apDiv3">
-  <p>&nbsp;</p>
-</div>
 <div id="apDiv4"><iframe src="https://docs.google.com/forms/d/1ZHQsY95rOkZguDibrRYHssL6OdlGdLAkrDkk7qsQetw/viewform?embedded=true" width="805" height="151" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
-<div id="apDiv5"><!-- TemplateBeginEditable name="content" -->About <!-- TemplateEndEditable --></div>
+<div id="apDiv5"><!-- TemplateBeginEditable name="content" -->Content<!-- TemplateEndEditable --></div>
 <div id="apDiv6">about</div>
 <div id="apDiv7">events</div>
 <div id="apDiv8">photos</div>
