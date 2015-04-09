@@ -203,6 +203,26 @@ body {
 	height:124px;
 	z-index:8;
 }
+#apDiv24 {
+	position:absolute;
+	left:190px;
+	top:130px;
+	width:998px;
+	height:132px;
+	z-index:7;
+}
+
+.TextNavigation {
+	float: left;
+	width: 150 px;
+	list-style-type: none;
+}
+
+.TextNavigation a {
+}
+
+.TextNavigation a:hover {
+}
 </style>
 
 <script language="JavaScript1.2" type="text/javascript">
@@ -262,9 +282,12 @@ function MM_preloadImages() { //v3.0
 <div id="apDiv5"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable -->
 <iframe src="https://docs.google.com/presentation/d/11GhtPEXaVxRgJDjd-7bQn7C4OL0TkgjwGVlbUenBwU8/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 <div id="apDiv10"><img src="../AIS LOGO2.png" width="98" height="92" /></div>
-<div id="apDiv20"><img src="../Service Sheets sidebar.png" width="228" height="130" /></div>
-<div id="apDiv"><a href="../F/About page .html"><img src="../About sidebar.png" width="228" height="124" /></a></div>
-<div id="apDiv3"><a href="../F/Events page .html"><img src="../Events sidebar.png" width="229" height="122" /></a></div>
-<div id="apDiv4"><a href="../SP-Photo_2.html"><img src="../Photos sidebar.png" width="228" height="125" /></a></div>
+<div id="apDiv24">
+<ul class="TextNavigation" id="TextNavigation">
+	<li class="TextNavigation">About</li>
+    <li class="TextNavigation">Events</li>
+    <li class="TextNavigation">Photos</li>
+    <li class="TextNavigation">Service Sheets</li>
+</ul></div>
 </body>
 </html>
